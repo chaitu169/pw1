@@ -1,0 +1,121 @@
+body{
+      margin-top: 200px;
+}
+
+.top-container{
+      
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.tp1{
+  position: relative;
+    margin-left: 650px;
+    margin-top: 180px;
+}
+.tp2{
+  position: relative;
+    margin-left: 678px
+}
+.mypic{
+position: relative;
+left: 680px;
+margin-top: 30px;
+margin-right: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+
+
+}
+
+.cloud1{
+  position: absolute;
+margin-left: 1200px;
+margin-top: -200px;
+}
+.cloud2{
+  display: block;
+position: relative;
+margin-left: 350px;
+}
+
+.mountain{
+  position: relative;
+    margin-left: 450px;
+}
+.p1{
+
+
+    position: relative;
+    margin-left: 735px;
+}
+.p2{
+
+
+    position: relative;
+    margin-left: 500px;
+}
+.s1{
+
+
+    position: relative;
+    margin-left: 720px;
+}
+.s2{
+
+    position: relative;
+    margin-left: 680px;
+}
+
+
+.s3{
+    position: relative;
+    margin-left: 615px;
+}
+.s4{
+  position: relative;
+    margin-left: 730px;
+}
+.s5{
+  position: relative;
+    margin-left: 680px;
+}
+
+.c1{
+  position: relative;
+    margin-left: 720px;
+}
+
+.c2{
+  position: relative;
+margin-left: 645px;
+}
+
+.c3{
+  position: relative;
+  margin-left: 520px;
+}
+.btn{
+
+
+    position: relative;
+    margin-left: 740px;
+}
+.bottom-container{
+  position: relative;
+  margin-left: 703px;
+}
+.computer{
+  position: relative;
+margin-left: 571px;
+}
+.maggi{
+  position: relative;
+    margin-left: 600px;
+}
